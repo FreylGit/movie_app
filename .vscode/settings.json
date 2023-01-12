@@ -1,0 +1,8 @@
+{
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+}
